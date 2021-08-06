@@ -2,7 +2,7 @@
 
 El link oficial para la conferencia (que redirecciona a la que hosteamos en Github) es:
 
-https://conectar2021.ucr.ac.cr
+https://eventoisi2021.ucr.ac.cr
 
 
 # Instrucciones para cambios:
